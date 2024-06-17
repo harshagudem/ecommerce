@@ -98,7 +98,7 @@ body {
     justify-content: center;
 }
 #navbar li{
-    list-style: none;
+    list-style:  none;
     padding: 0 20px;
     position: relative;
 }
